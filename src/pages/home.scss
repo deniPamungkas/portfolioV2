@@ -1,0 +1,39 @@
+/* Hide scrollbar for Chrome, Safari and Opera */
+.galeri::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.galeri {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.scroller {
+  mask: linear-gradient(
+    to right,
+    transparent,
+    white 5%,
+    white 95%,
+    transparent
+  );
+}
+
+.scroller_inner-l {
+  animation: scrolll 30s linear infinite;
+}
+.scroller_inner-r {
+  animation: scrollr 25s linear infinite;
+  transform: translate(-50%);
+}
+
+@keyframes scrolll {
+  to {
+    transform: translateX(calc(-50% - 0.4rem));
+  }
+}
+@keyframes scrollr {
+  to {
+    transform: translateX(calc(0% + 0.55rem));
+  }
+}

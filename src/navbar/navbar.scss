@@ -1,0 +1,19 @@
+.changeMode {
+  transform: translate(-49%);
+}
+
+.nightMode {
+  transition: 0.5s;
+}
+
+.boxShadow {
+  box-shadow: 5px 5px 13px -4px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow: 5px 5px 13px -4px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 5px 5px 13px -4px rgba(0, 0, 0, 0.4);
+}
+
+.dark ~ .boxShadow {
+  box-shadow: 5px 5px 13px -4px rgba(255, 255, 255, 0.4);
+  -webkit-box-shadow: 5px 5px 13px -4px rgba(255, 255, 255, 0.4);
+  -moz-box-shadow: 5px 5px 13px -4px rgba(255, 255, 255, 0.4);
+}
