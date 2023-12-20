@@ -37,4 +37,9 @@ export const projects = [
     desc: "aplikasi media sosial",
     link: "https://github.com/deniPamungkas/FE-social-media-app",
   },
+  {
+    name: "funBlog",
+    desc: "aplikasi menulis dan membaca blog",
+    link: "https://funblogdenipamungkas.vercel.app",
+  },
 ];
