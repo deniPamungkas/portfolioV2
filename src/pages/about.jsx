@@ -13,20 +13,19 @@ const About = () => {
           I’m Deni Pamungkas, an Indonesian 🇮🇩 Developer.
         </h1>
         <p>
-          Hello! I am Zain. You might know me from my talks at conferences or my
-          contributions at WargaBantuWarga and KawalCOVID19 . I currently work
-          as a Senior Software Engineer 2 at Ninja Van, previously venturing at
-          Xtremax and Bukalapak. I live in Singapore 🇸🇬 with my Indonesian 🇮🇩
-          wife 👰🏻 and three kids 👧🏻👦🏻👶🏻. To channel my enthusiasm for React,
-          JavaScript, & frontend development in general, I co-organize a ReactJS
-          and a Frontend Developer community in Indonesia. I love sharing my
-          learning journey to the community by giving a few talks and writing
-          some articles in Bahasa Indonesia at Pejuang Kode Medium publication
-          to help my fellow Indonesian developers learn. Other than that, I also
-          gathered a community of Indonesian learners around me in a Discord
-          Server. If you have any question for me, join us at my Pejuang Kode
-          Discord Server and raise your questions over there! We would love to
-          keep in touch with you. 😉
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui itaque
+          neque quam, libero nesciunt beatae nostrum illum hic quos veniam
+          repellat obcaecati minus eius quod inventore modi fugit temporibus
+          nihil? Lorem ipsum dolor sit amet consectetur adipisicing elit. A
+          aliquam necessitatibus ea ipsam earum modi esse cupiditate animi nemo
+          aut. Nostrum asperiores qui architecto quasi possimus, mollitia rem
+          eveniet amet? Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Excepturi tempora blanditiis totam officia at distinctio natus
+          perferendis eveniet atque repellendus id quisquam, magnam eaque
+          officiis soluta nisi ab, tenetur optio? Lorem ipsum dolor sit amet,
+          consectetur adipisicing elit. Rem enim sunt nobis incidunt autem
+          ratione distinctio voluptas, eos a cumque deserunt officia animi dolor
+          repudiandae nam neque est aspernatur accusamus?
         </p>
       </div>
     </section>
