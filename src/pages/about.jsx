@@ -12,20 +12,13 @@ const About = () => {
         <h1 className="text-3xl font-bold md:text-5xl mb-7 md:mb-10">
           I’m Deni Pamungkas, an Indonesian 🇮🇩 Developer.
         </h1>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui itaque
-          neque quam, libero nesciunt beatae nostrum illum hic quos veniam
-          repellat obcaecati minus eius quod inventore modi fugit temporibus
-          nihil? Lorem ipsum dolor sit amet consectetur adipisicing elit. A
-          aliquam necessitatibus ea ipsam earum modi esse cupiditate animi nemo
-          aut. Nostrum asperiores qui architecto quasi possimus, mollitia rem
-          eveniet amet? Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Excepturi tempora blanditiis totam officia at distinctio natus
-          perferendis eveniet atque repellendus id quisquam, magnam eaque
-          officiis soluta nisi ab, tenetur optio? Lorem ipsum dolor sit amet,
-          consectetur adipisicing elit. Rem enim sunt nobis incidunt autem
-          ratione distinctio voluptas, eos a cumque deserunt officia animi dolor
-          repudiandae nam neque est aspernatur accusamus?
+        <p className="text-justify">
+          I am a frontend developer who likes challenges. I like completing
+          leetcode missions in my free time. Of course, I also often deepen my
+          skills by creating projects. by working on projects, I encountered a
+          lot of problems in the field which I learned a lot from. I am
+          currently still studying, in my final year. I live in the city of
+          Magelang, Indonesia.
         </p>
       </div>
     </section>

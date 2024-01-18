@@ -28,18 +28,33 @@ export const data = [
 
 export const projects = [
   {
+    name: "my past portfolio",
+    desc: "portfolio which contains mini porjects",
+    link: "https://denipamungkas.github.io/my-portfolio/",
+  },
+  {
     name: ".Deni Blog App",
-    desc: "aplikasi blog untuk menulis dan membaca blog.",
+    desc: "Blog application to write and read a blog",
     link: "https://github.com/deniPamungkas/FE-blog-app",
   },
   {
     name: "denisocial.",
-    desc: "aplikasi media sosial",
+    desc: "Social Media application",
     link: "https://github.com/deniPamungkas/FE-social-media-app",
   },
   {
     name: "funBlog",
-    desc: "aplikasi menulis dan membaca blog",
+    desc: "Blog application to write and read a blog",
     link: "https://funblogdenipamungkas.vercel.app",
+  },
+  {
+    name: "furniro E-commerceApp",
+    desc: "e-commerce application for house furniture",
+    link: "https://furnirodenipamungkas.vercel.app/",
+  },
+  {
+    name: "Calculator",
+    desc: "calculator app with dark mode",
+    link: "https://denipamungkas.github.io/Calculator/",
   },
 ];

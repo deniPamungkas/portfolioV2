@@ -28,10 +28,21 @@ const Home = () => {
         skill to be better every single day.
       </p>
       <div className="flex gap-x-5 mb-10 md:mb-14 text-gray-500 dark:text-white">
-        <GitHubIcon />
-        <InstagramIcon />
-        <FacebookIcon />
-        <LinkedInIcon />
+        <a href="https://github.com/deniPamungkas" target="blank">
+          <GitHubIcon />
+        </a>
+        <a href="#">
+          <InstagramIcon />
+        </a>
+        <a href="#">
+          <FacebookIcon />
+        </a>
+        <a
+          href="https://www.linkedin.com/in/deni-pamungkas-5b3534217/"
+          target="blank"
+        >
+          <LinkedInIcon />
+        </a>
       </div>
       <Galeri />
       <div className="scroller flex flex-col gap-y-2 md:gap-y-4 h-auto mt-80 overflow-hidden w-full">

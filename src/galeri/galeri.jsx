@@ -1,13 +1,25 @@
 const Galeri = () => {
-  const data = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+  const data = [
+    { id: 1, img: "/furniro1.png" },
+    { id: 2, img: "/furniro2.png" },
+    { id: 3, img: "/calc1.png" },
+    { id: 4, img: "/calc2.png" },
+    5,
+    6,
+    7,
+    8,
+    9,
+  ];
   return (
     <section className="galeri flex gap-x-4 overflow-scroll absolute w-full left-0 px-5">
-      {data.map((item, index) => {
+      {data.map((item) => {
         return (
           <div
-            key={index}
-            className="w-52 h-52 rounded-lg shrink-0 bg-red-400"
-          ></div>
+            key={item.id}
+            className="w-52 h-52 rounded-lg shrink-0 bg-red-400 overflow-hidden"
+          >
+            <img src={`images/${item.img}`} alt="" />
+          </div>
         );
       })}
     </section>
