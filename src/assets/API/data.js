@@ -53,6 +53,11 @@ export const projects = [
     link: "https://furnirodenipamungkas.vercel.app/",
   },
   {
+    name: "Weather-app",
+    desc: "app to know today's weather status until the next 5 days",
+    link: "https://denipamungkas.github.io/Weather-app-2.0/",
+  },
+  {
     name: "Calculator",
     desc: "calculator app with dark mode",
     link: "https://denipamungkas.github.io/Calculator/",

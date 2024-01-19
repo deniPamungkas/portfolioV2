@@ -4,7 +4,7 @@ const Galeri = () => {
     { id: 2, img: "/furniro2.png" },
     { id: 3, img: "/calc1.png" },
     { id: 4, img: "/calc2.png" },
-    5,
+    { id: 5, img: "/weather.png" },
     6,
     7,
     8,
