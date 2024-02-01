@@ -62,4 +62,9 @@ export const projects = [
     desc: "calculator app with dark mode",
     link: "https://denipamungkas.github.io/Calculator/",
   },
+  {
+    name: "Hounter Landing Page",
+    desc: "Landing page web app",
+    link: "https://hounter-bice.vercel.app/",
+  },
 ];
