@@ -63,7 +63,7 @@ export const projects = [
     link: "https://denipamungkas.github.io/Calculator/",
   },
   {
-    name: "Hounter Landing Page",
+    name: "Hounter Landing Page (Dekstop Only)",
     desc: "Landing page web app",
     link: "https://hounter-bice.vercel.app/",
   },
