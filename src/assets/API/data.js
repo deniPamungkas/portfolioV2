@@ -28,6 +28,10 @@ export const data = [
 
 export const projects = [
   {
+    name: "Joglo Ndeso Point Of Sales Application (POS)",
+    desc: "e-commerce application for house furniture",
+    link: "https://joglo-ndeso-kasir-admin-dev.vercel.app/",
+  },{
     name: "furniro E-commerceApp",
     desc: "e-commerce application for house furniture",
     link: "https://furnirodenipamungkas.vercel.app/",
@@ -36,20 +40,5 @@ export const projects = [
     name: "Hounter Landing Page (Dekstop Only)",
     desc: "Landing page web app",
     link: "https://hounter-bice.vercel.app/",
-  },
-  {
-    name: "my past portfolio",
-    desc: "portfolio which contains mini porjects",
-    link: "https://denipamungkas.github.io/my-portfolio/",
-  },
-  {
-    name: "Weather-app",
-    desc: "app to know today's weather status until the next 5 days",
-    link: "https://denipamungkas.github.io/Weather-app-2.0/",
-  },
-  {
-    name: "Calculator",
-    desc: "calculator app with dark mode",
-    link: "https://denipamungkas.github.io/Calculator/",
   },
 ];
