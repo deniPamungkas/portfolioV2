@@ -6,6 +6,7 @@ import Projects from "./pages/projects.jsx";
 import Blog from "./pages/blog.jsx";
 import Home from "./pages/home.jsx";
 import Footer from "./footer/footer.jsx";
+import DetailProject from "./pages/detailProject.jsx";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/about" Component={About} />
           <Route path="/blog" Component={Blog} />
           <Route path="/projects" Component={Projects} />
+          <Route path="/project-detail" Component={DetailProject} />
         </Routes>
         <Footer />
       </BrowserRouter>

@@ -1,6 +1,6 @@
 const About = () => {
   return (
-    <section className="h-full px-5 md:flex md:flex-row-reverse md:justify-end m-auto md:gap-x-10 pb-52 pt-20 xl:w-3/4">
+    <section className="h-full px-5 md:flex md:flex-row-reverse md:justify-end m-auto md:gap-x-10 pb-52 pt-20 lg:w-3/4">
       <div className=" w-52 h-52 md:w-64 md:h-64 flex justify-center items-start overflow-hidden rounded-full mb-5 md:mb-0 shrink-0">
         <img
           src="fotoku.jpg"

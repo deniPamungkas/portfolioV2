@@ -9,7 +9,7 @@ import "./home.scss";
 
 const Home = () => {
   return (
-    <section className="night px-5 pt-20 max-w-3xl xl:max-w-5xl m-auto h-fit pb-52 xl:w-3/4">
+    <section className="night px-5 pt-20 max-w-3xl xl:max-w-5xl m-auto h-fit pb-52 lg:w-3/4">
       <div className=" w-52 h-52 md:w-64 md:h-64 flex justify-center items-center overflow-hidden m-auto rounded-full mb-5">
         <img
           src="fotoku.jpg"
