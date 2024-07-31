@@ -3,10 +3,16 @@ import { Link } from "react-router-dom";
 
 const Project = (props) => {
   return (
-    <Link to={"/project-detail"}>
-      <section className="w-full h-32 border-2 rounded-lg px-3 py-3 md:w-72 shrink-0 flex flex-col hover:border-teal-400 cursor-pointer">
-        <h1 className="text-lg font-bold mb-1">{props.name}</h1>
-        <div className="text-xs h-10">{props.desc}</div>
+    <section className="w-full h-32 border-2 rounded-lg px-3 py-3 md:w-72 shrink-0 flex flex-col hover:border-teal-400 relative">
+      <h1 className="text-lg font-bold mb-1">{props.name}</h1>
+      <div className="text-xs h-10">{props.desc}</div>
+      {props.name == "Joglo Ndeso Point Of Sales Application (POS)" ? (
+        <Link to={"/project-detail"}>
+          <button className="text-xs bg-teal-700 px-3 py-[2px] font-semibold rounded-sm text-white hover:bg-teal-900">
+            Detail
+          </button>
+        </Link>
+      ) : (
         <a
           href={props.link}
           target="blank"
@@ -14,8 +20,8 @@ const Project = (props) => {
         >
           {props.link}
         </a>
-      </section>
-    </Link>
+      )}
+    </section>
   );
 };
 

@@ -29,9 +29,10 @@ export const data = [
 export const projects = [
   {
     name: "Joglo Ndeso Point Of Sales Application (POS)",
-    desc: "e-commerce application for house furniture",
+    desc: "POS Application for Joglo Ndeso Resto",
     link: "https://joglo-ndeso-kasir-admin-dev.vercel.app/",
-  },{
+  },
+  {
     name: "furniro E-commerceApp",
     desc: "e-commerce application for house furniture",
     link: "https://furnirodenipamungkas.vercel.app/",

@@ -5,6 +5,15 @@ const DetailProject = () => {
         Joglo Ndeso Point Of Sales Application (POS)
       </h1>
       <br />
+      <a
+        href={"https://joglo-ndeso-kasir-admin-dev.vercel.app/"}
+        target="blank"
+        className="text-xs text-teal-600 dark:text-teal-400 font-semibold hover:underline"
+      >
+        https://joglo-ndeso-kasir-admin-dev.vercel.app/
+      </a>
+      <br />
+      <br />
       <span>
         Aplikasi ini merupakan project yang saya kerjakan untuk memenuhi
         permintaan dari Joglo Ndeso Resto, sebuah rumah makan yang berada di
