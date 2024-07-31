@@ -18,14 +18,14 @@ const Home = () => {
         />
       </div>
       <h1 className="font-bold text-4xl md:text-5xl leading-10 mb-5 md:mb-7 md:leading-tight dark:text-white">
-        A man with enthusiasm for code especially JavaScript and React.
+        A man with enthusiasm for code especially JavaScript.
       </h1>
       <p className="mb-5 md:mb-7 leading-7 font-semibold text-gray-500 dark:text-white">
         Im deni, a junior developer living in Indonesia. My interest is in web
         development field cause its such an exciting things. I love writing code
-        using javascript and its frameworks reactJS. I often do several projects
-        including the simplest until the complex one with purpose to increase my
-        skill to be better every single day.
+        using javascript. I often do several projects including the simplest
+        until the complex one with purpose to increase my skill to be better
+        every single day.
       </p>
       <div className="flex gap-x-5 mb-10 md:mb-14 text-gray-500 dark:text-white">
         <a href="https://github.com/deniPamungkas" target="blank">

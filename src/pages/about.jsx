@@ -13,12 +13,11 @@ const About = () => {
           I’m Deni Pamungkas, an Indonesian 🇮🇩 Developer.
         </h1>
         <p className="text-justify">
-          I am a frontend developer who likes challenges. I like completing
+          I am a backend developer who likes challenges. I like completing
           leetcode missions in my free time. Of course, I also often deepen my
           skills by creating projects. by working on projects, I encountered a
-          lot of problems in the field which I learned a lot from. I am
-          currently still studying, in my final year. I live in the city of
-          Magelang, Indonesia.
+          lot of problems in the field which I learned a lot from. I live in the
+          city of Magelang, Indonesia.
         </p>
       </div>
     </section>

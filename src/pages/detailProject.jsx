@@ -8,10 +8,14 @@ const DetailProject = () => {
       <a
         href={"https://joglo-ndeso-kasir-admin-dev.vercel.app/"}
         target="blank"
-        className="text-xs text-teal-600 dark:text-teal-400 font-semibold hover:underline"
+        className="text-sm text-teal-600 dark:text-teal-400 font-semibold hover:underline"
       >
         https://joglo-ndeso-kasir-admin-dev.vercel.app/
       </a>
+      <br />
+      <span>Email : denipamu@gmail.com</span>
+      <br />
+      <span>Password : denip123</span>
       <br />
       <br />
       <span>
