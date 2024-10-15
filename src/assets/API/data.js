@@ -28,6 +28,11 @@ export const data = [
 
 export const projects = [
   {
+    name: "MERN E-commerce",
+    desc: "E-commerce for fashion with payment gateway integration",
+    link: "https://featured-e-commerce.vercel.app/shop",
+  },
+  {
     name: "Joglo Ndeso Point Of Sales Application (POS)",
     desc: "POS Application for Joglo Ndeso Resto",
     link: "https://joglo-ndeso-kasir-admin-dev.vercel.app/",
